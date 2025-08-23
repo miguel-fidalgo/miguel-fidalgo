@@ -1,9 +1,9 @@
 ## Professional Profile
 <div align="justify">
 
-I am Miguel Fidalgo, a Computer Engineer and Software Developer from Madrid, currently studying Computer Science and Engineering at UC3M, with an academic year completed at Purdue University. My experience spans **compilers, operating systems, web development, data structures, and embedded systems**, working with languages such as **Python, C, Scala, SQL, PHP, R, RISC-V, and x86-64 assembly**. I am passionate about building **efficient, well-structured software** and understanding systems in depth, from high-level architecture down to low-level execution.
+I am Miguel Fidalgo Garcia, a Computer Science and Engineering at Universidad Carlos III of Madrid, with an academic year completed at Purdue University. My experience spans **compilers, operating systems, web development, data structures, and embedded systems**, working with languages such as **Python, C, Scala, SQL, PHP, R, RISC-V and x86-64 assembly**. I am passionate about building **efficient, well-structured software** and understanding systems in depth, from high-level architecture down to low-level execution.
 
-Explore my repositories to see hands-on projects, and visit my [**personal website**](https://qrsume.com/miguelfidalgo) for in-depth articles breaking down each one, from the challenges I faced to the solutions I implemented.
+Feel free to explore my repositories to see hands-on projects, and visit my [**personal website**](https://qrsume.com/miguelfidalgo) for in-depth articles breaking down each one, from the challenges I faced to the solutions I implemented.
 
 </div>
 
