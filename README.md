@@ -45,4 +45,4 @@ Adaptability • Problem-Solving • Leadership skills • Low-Level Programming
 
 ## Contact
 - **🌐 Website:** [Miguel Fidalgo Garcia](https://qrsume.com/miguelfidalgo)  
-- **💼 LinkedIn:** [Miguel Fidalgo Garcia](www.linkedin.com/in/miguel-fidalgo-garcia)  
+- **💼 LinkedIn:** [Miguel Fidalgo Garcia](https://www.linkedin.com/in/miguel-fidalgo-garcia)  
